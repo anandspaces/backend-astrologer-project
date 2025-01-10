@@ -2,17 +2,6 @@
 
 This project implements a flow distribution algorithm in Node.js to connect users with astrologers. The system ensures a fair and balanced allocation of users to astrologers, while providing flexibility to adjust the flow for top astrologers.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 This backend system manages the flow distribution of users to astrologers. It aims to:
